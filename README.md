@@ -8,4 +8,4 @@
 </p>#Click on the "Open in Colab" button / open in new tab.</p>
 <b>START:</b>
 <br>
-<a href="https://colab.research.google.com/github/RupomChowdhury/Mega-TO-GDrive/blob/main/Mega-to-GDrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <b>
+<a href="https://colab.research.google.com/github/RupomChowdhury/GDrive-2-GDrive/blob/main/drive2drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <b>
